@@ -1,7 +1,9 @@
 seal_or_no_seal
 ==============================
 
-A short description of the project.
+The Seal classification and detection project is a machine learning project that aims to
+classify and detect seals in the image. The project utilizes the PyTorch Lightning
+framework and the ResNet50 model for the classification task.
 
 Project Organization
 ------------
